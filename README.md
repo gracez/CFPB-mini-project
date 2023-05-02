@@ -5,7 +5,7 @@ The project is a visual exploration in nature -- it looks at data of complaints 
 
 The project can be viewed at the Jupyter Notebook: `CFPB_mini_project.ipynb`.
 
-There is an accompanying mini presentation in [Google Slides](https://docs.google.com/presentation/d/1mDMXmrxDLWnJ23a7buCNRPYWTGmzBzDKZHyHTqb21Q4/edit?usp=sharing). (Use slideshow mode!)
+There is an accompanying mini presentation in [Google Slides](https://docs.google.com/presentation/d/1mDMXmrxDLWnJ23a7buCNRPYWTGmzBzDKZHyHTqb21Q4/edit?usp=share_link). (Use slideshow mode!)
 
 ----
 
