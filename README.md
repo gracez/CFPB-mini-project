@@ -11,7 +11,7 @@ There is an accompanying mini presentation in [Google Slides](https://docs.googl
 
 
 The other files are:
-`preprocessing_data.ipynb`, explains the data was downloaded from the CFPB website and then reduced in size by random sampling.
-`scratch_work.ipynb`, contains slightly more exploration beyond the main file, not all of which necessarily led to interesting observations.
-`slideshow_transcript.md`, contains a prepared transcript for the slides. (Part of the assignment was to give a live presentation.)
+- `preprocessing_data.ipynb`, explains the data was downloaded from the CFPB website and then reduced in size by random sampling.
+- `scratch_work.ipynb`, contains slightly more exploration beyond the main file, not all of which necessarily led to interesting observations.
+- `slideshow_transcript.md`, contains a prepared transcript for the slides. (Part of the assignment was to give a live presentation.)
 
